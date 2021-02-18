@@ -1,10 +1,10 @@
-# Summary
+
 
 * [简介](README.md)
   * [第一章](chapter1/README.md)
     * [第一节](chapter1/chapter1.md)
     * [第二节](chapter1/chapter2.md)
-    * [第一节](chapter1/chapter3.md)
+    * [第三节](chapter1/chapter3.md)
     
   * [第二章](chapter2/README.md)
     * [第一节](chapter2/chapter1.md)
